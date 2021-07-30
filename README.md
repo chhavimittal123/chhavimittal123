@@ -9,7 +9,7 @@
 
  - ✨  ALways trying to learn and grow.
 
- - ➡  You can reach me at: chhavimittal0910@gmail.com
+ - ➡  You can reach me at: chhavimittal0910@gmail.com or on instagram: @chhavimittal_09
 
  - 🤓 Fun Fact: I'm currently in 9th class.
 
