@@ -4,8 +4,6 @@
  - 👩‍💻  I'm currently learning python.
 
  - 👧🏻  Pronouns: She/her
- 
- - 🙂  Personality: ENFJ-A
 
  - ✨  ALways trying to learn and grow.
 
