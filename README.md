@@ -3,13 +3,11 @@
 
  - 👩‍💻  I'm currently learning python.
 
- - 👧🏻  Pronouns: She/her
-
  - ✨  ALways trying to learn and grow.
 
  - ➡  You can reach me at: chhavimittal0910@gmail.com 
 
- - 🤓 I'm in 9th class.
+ - 🤓 Fun Fact: I'm in 9th class.
 
 
  <img src= "https://github-readme-stats.vercel.app/api?username=chhavimittal123&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
