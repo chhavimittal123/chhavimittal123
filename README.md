@@ -1,15 +1,3 @@
-👋 Hey there, This is Chhavi.
-
-
- - 👩‍💻  I'm currently learning python.
-
- - ✨  ALways trying to learn and grow.
-
- - ➡  You can reach me at: chhavimittal0910@gmail.com 
-
- - 🤓 Fun Fact: I'm in 9th class.
-
-
  <img src= "https://github-readme-stats.vercel.app/api?username=chhavimittal123&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
